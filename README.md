@@ -43,3 +43,4 @@ A collection of resources and links related to biological computing (biocomputin
 
 ## Miscellaneous
 - [DNA Computing](https://en.wikipedia.org/wiki/DNA_computing)
+- [Cortical Labs](https://corticallabs.com/)
