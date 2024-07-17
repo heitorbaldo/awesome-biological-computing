@@ -8,13 +8,19 @@ A collection of resources and links related to biological computing (biocomputin
 ## Contents
 
 - [Books](#books)
+- [Courses](#courses)
 - [Papers](#papers)
 - [Frameworks and Platforms](frameworks-and-platforms)
-- [Useful Links](#useful-links)
+- [Miscellaneous](#miscellaneous)
 
 <hr>
 
 ## Books
+
+- [Unconventional Computing 2005: From Cellular Automata to Wetware](https://www.amazon.com/Unconventional-Computing-2005-Cellular-Automata/dp/095511702X) - Christof Teuscher, Andrew Adamatzky (Luniver Press, 2005).
+- [Wetware: A Computer in Every Living Cell](https://www.amazon.com/Wetware-Computer-Every-Living-Cell/dp/0300167849) - Dennis Bray (Yale University Press, 2011).
+
+## Courses
 
 
 ## Papers
@@ -28,5 +34,5 @@ A collection of resources and links related to biological computing (biocomputin
 
 - [FinalSpark](https://finalspark.com/) - Neuroplatform for biocomputing.
 
-## Useful Links
+## Miscellaneous
 - [DNA Computing](https://en.wikipedia.org/wiki/DNA_computing)
