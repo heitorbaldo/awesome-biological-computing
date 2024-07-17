@@ -35,7 +35,7 @@ A collection of resources and links related to biological computing (biocomputin
 
 ## Videos and Lectures
 
--[Brain Organoids Communicate: A Step Toward "Organoid Intelligence"](https://www.youtube.com/watch?v=UcxwHcjIeac&t=455s&ab_channel=IhmCurious) - Elliott Ihm
+- [Brain Organoids Communicate: A Step Toward "Organoid Intelligence"](https://www.youtube.com/watch?v=UcxwHcjIeac&t=455s&ab_channel=IhmCurious) - Elliott Ihm
 
 ## Frameworks and Platforms
 
